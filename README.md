@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @6969143
+- 👋 Hi, I’m @pavan chandu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and html basics 
 - 💞️ I’m looking to collaborate on small developing companies that my role is essential
