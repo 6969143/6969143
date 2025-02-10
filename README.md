@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan chandu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and html basics 
+- 🌱 I’m currently Specialized in Machine Learning
 - 💞️ I’m looking to collaborate on small developing companies that my role is essential
 - 📫 How to reach me pavanchandu9391@gmail.com
 
